@@ -4,6 +4,4 @@
 
 --------------------------------------------------------------------------------
 
-![](./Images/vim.png=200x)
-![](./Images/green-right-arrow.png=200x)
-![](./Images/windows.png=200x)
+<img src="./Images/vim.png" width="200px" height="200px" /> <img src="./Images/green-right-arrow.png" width="200px" height="200px" /> <img src="./Images/windows.png" width="200px" height="200px" />
